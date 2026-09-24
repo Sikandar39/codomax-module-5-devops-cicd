@@ -62,4 +62,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Sikandar39/codomax-module-5-devops-cicd:latest
+          tags: ghcr.io/sikandar39/codomax-module-5-devops-cicd:latest
