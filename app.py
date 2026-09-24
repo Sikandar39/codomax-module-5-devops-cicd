@@ -39,7 +39,7 @@ def home():
             <p>
                 Automated testing, Docker build, deployment and monitoring.
             </p>
-            <p>Module 5 — Codomax Digital Solutions</p>
+            <p>Module 5 — DevOps, CI/CD & Monitoring</p>
         </div>
     </body>
     </html>
