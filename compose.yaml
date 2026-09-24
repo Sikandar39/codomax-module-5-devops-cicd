@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    container_name: module5-web
+    ports:
+      - "5000:5000"
+    environment:
+      APP_ENV: production
+      APP_NAME: module5-devops
+    restart: unless-stopped
